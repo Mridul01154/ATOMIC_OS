@@ -3,7 +3,7 @@
 A modern 32-bit x86 operating system kernel written from scratch with advanced features including graphical interface, file system, and application framework.
 
 ## 📹 Demo Video
-[![ATOMIC OS Demo](https://github.com/Mridul01154/ATOMIC_OS/blob/main/Docs/Screenshot%202025-11-30%20195438.png)]()
+[![ATOMIC OS Demo](https://github.com/Mridul01154/ATOMIC_OS/blob/main/Docs/Screenshot%202025-11-30%20195438.png)](https://github.com/Mridul01154/ATOMIC_OS/blob/main/Docs/Atomic%20-%20Made%20with%20Clipchamp_1764514436480.mp4)
 
 
 
